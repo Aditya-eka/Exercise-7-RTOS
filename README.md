@@ -32,3 +32,4 @@
 1. Tanpa Perlindungan: Tugas berprioritas tinggi dapat terhambat oleh tugas berprioritas rendah, mengurangi performa sistem.
 2. Dengan Proteksi: Menggunakan mekanisme seperti taskENTER_CRITICAL() memastikan tugas berprioritas tinggi tetap berjalan optimal
 ## Hasil Percobaan
+https://github.com/user-attachments/assets/41e1add6-7087-48e7-b88e-4f5153cfcca3
